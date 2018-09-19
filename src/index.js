@@ -1,2 +1,5 @@
+import demo from './sub'
 
-alert("hello")
+demo()
+
+alert("hello, webpack!")
